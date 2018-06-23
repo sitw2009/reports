@@ -1,4 +1,4 @@
-# 「TODO」 第34回山陰ITPro勉強会 開催レポート
+# 第34回山陰ITPro勉強会 開催レポート
 
 ![](images/opening.jpg)
 
